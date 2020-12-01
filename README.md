@@ -9,7 +9,7 @@ used any Rust or done any web development.
 The Idea is to first focus on getting a website up and running, for this I have
 two starting points 
 1. [Rust wasm tutorial](https://rustwasm.github.io/docs/book/)
-2. [Yes framework examples](https://github.com/yewstack/yew/tree/master/examples)
+2. [Yew framework examples](https://github.com/yewstack/yew/tree/master/examples)
 
 Today I've started on the first item and got a web page up and went a little
 deeper into the tutorial
